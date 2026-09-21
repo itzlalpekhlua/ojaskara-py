@@ -1,0 +1,28 @@
+[Unit]
+Description=Ojaskaraa Builders (FastAPI + Next.js, single process)
+After=network.target
+
+[Service]
+Type=simple
+# Change these three to match your server:
+User=REPLACE_WITH_CLOUDPANEL_SITE_USER
+WorkingDirectory=/home/REPLACE_WITH_CLOUDPANEL_SITE_USER/htdocs/REPLACE_WITH_DOMAIN/backend
+ExecStart=/home/REPLACE_WITH_CLOUDPANEL_SITE_USER/htdocs/REPLACE_WITH_DOMAIN/backend/venv/bin/python main.py
+
+Environment=PORT=8000
+Environment=HOST=127.0.0.1
+Environment=FRONTEND_INTERNAL_PORT=4000
+# Generate your own: python3 -c "import secrets; print(secrets.token_hex(32))"
+Environment=ADMIN_SESSION_SECRET=REPLACE_WITH_A_LONG_RANDOM_SECRET
+Environment=NODE_ENV=production
+# Node.js must be resolvable on PATH — adjust if you installed it somewhere
+# non-standard (e.g. via nvm, which isn't on the system PATH by default).
+Environment=PATH=/usr/bin:/usr/local/bin:/home/REPLACE_WITH_CLOUDPANEL_SITE_USER/htdocs/REPLACE_WITH_DOMAIN/backend/venv/bin
+
+# First boot runs `next build` if frontend/.next is missing — give it room.
+TimeoutStartSec=300
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
