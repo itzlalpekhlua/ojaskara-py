@@ -106,8 +106,16 @@ if __name__ == "__main__":
     # firewall, and required by most PaaS hosts). Behind a reverse proxy on
     # the same box (CloudPanel/Nginx), set HOST=127.0.0.1 so this port is
     # never reachable directly.
+    # proxy_headers + forwarded_allow_ips make uvicorn trust the
+    # X-Forwarded-Proto/For that the edge reverse proxy sets, so on the custom
+    # domain request.url.scheme is "https" rather than the plain-HTTP hop.
+    # FORWARDED_ALLOW_IPS defaults to the loopback address (an Nginx on the
+    # same box); set it to the edge's IP, or "*" when only the edge can reach
+    # this port at all.
     uvicorn.run(
         "main:app",
         host=os.environ.get("HOST", "0.0.0.0"),
         port=int(os.environ.get("PORT", "8000")),
+        proxy_headers=True,
+        forwarded_allow_ips=os.environ.get("FORWARDED_ALLOW_IPS", "127.0.0.1"),
     )

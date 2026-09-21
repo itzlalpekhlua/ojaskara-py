@@ -15,6 +15,23 @@ persistent disk. **It cannot run on Vercel itself** — Vercel's Python/Node
 functions are stateless and don't keep local files between requests. Vercel
 can only ever host the *frontend* half of this app.
 
+## The public domain
+
+The site's canonical domain is **`https://ojaskaraabuilders.com`**, set in
+`frontend/lib/site.ts`. Everything that needs an absolute URL — the
+`<link rel="canonical">` tag, the Open Graph / Twitter card tags,
+`/robots.txt` and `/sitemap.xml` — is built from it, so there is nothing to
+configure per host for the production domain to work.
+
+Serving the same build from a *different* origin (staging, a Vercel preview)
+is the only case that needs anything: set `NEXT_PUBLIC_SITE_URL` to that
+origin, with no trailing slash, before running `next build`. It is read at
+build time, not at runtime.
+
+Nothing else is domain-bound. The app reaches its own API over same-origin
+relative paths, and the admin session cookie is scoped to whatever host
+served it, so the app runs correctly on any hostname you point at it.
+
 ---
 
 ## Option A: VPS, single server (recommended)

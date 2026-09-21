@@ -33,9 +33,17 @@ async def _proxy(request: Request, path: str) -> StreamingResponse:
     headers = [(k, v) for k, v in request.headers.raw if k.decode("latin-1").lower() not in _REQUEST_STRIP]
 
     original_host = request.headers.get("host", request.url.netloc)
+
+    # Behind a TLS-terminating reverse proxy (CloudPanel/Nginx on the custom
+    # domain), the hop to us is plain HTTP, so request.url.scheme says "http"
+    # even though the browser is on https://. Trust the edge's own
+    # X-Forwarded-Proto when it sent one, so Next builds https:// URLs and its
+    # Server Action origin check compares like for like.
+    forwarded_proto = request.headers.get("x-forwarded-proto", "").split(",")[0].strip() or request.url.scheme
+
     headers.append((b"host", original_host.encode("latin-1")))
     headers.append((b"x-forwarded-host", original_host.encode("latin-1")))
-    headers.append((b"x-forwarded-proto", request.url.scheme.encode("latin-1")))
+    headers.append((b"x-forwarded-proto", forwarded_proto.encode("latin-1")))
 
     upstream = await _client.send(
         _client.build_request(request.method, url, headers=headers, content=body),
