@@ -93,14 +93,11 @@ git clone <your-repo-url> .
 ```
 
 You should now have `~/htdocs/yourdomain.com/backend/` and `.../frontend/`.
-
-#### Bring your real content over
-
-`backend/database/*.json` and `backend/database/images/` are gitignored on
-purpose (they're your live data, not sample code). If you're migrating from
-a local dev copy that already has real projects/testimonials/photos in it,
-copy that folder over separately — don't start from an empty database on a
-fresh clone unless you mean to:
+`backend/database/*.json` and `backend/database/images/` — the real site
+content and admin accounts — are tracked in this repo, so a plain `git
+clone` already brings them over. If you're instead deploying from a local
+copy that's diverged from what's in the repo, rsync that folder over
+separately:
 
 ```bash
 # from your own machine

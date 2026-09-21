@@ -1,0 +1,29 @@
+[
+  {
+    "id": "cmtvalwj40025jhwkrax8wgx7",
+    "platform": "INSTAGRAM",
+    "embedUrl": "https://www.instagram.com/ojaskaraa_builders/",
+    "thumbnail": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1600&q=80",
+    "caption": null,
+    "order": 0,
+    "published": true
+  },
+  {
+    "id": "cmtvalwj40026jhwkmk399wz7",
+    "platform": "TIKTOK",
+    "embedUrl": "https://www.tiktok.com/@ojaskaraa_builders",
+    "thumbnail": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=1600&q=80",
+    "caption": null,
+    "order": 1,
+    "published": true
+  },
+  {
+    "id": "cmtvalwj40027jhwkhhsrv0er",
+    "platform": "FACEBOOK",
+    "embedUrl": "https://www.facebook.com/ojaskaraabuilders",
+    "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80",
+    "caption": null,
+    "order": 2,
+    "published": true
+  }
+]

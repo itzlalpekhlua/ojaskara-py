@@ -1,0 +1,101 @@
+[
+  {
+    "id": "cmtvalwiv001qjhwksxfd8bku",
+    "title": "Visualization",
+    "slug": "visualization",
+    "description": "Seeing the building before a single foundation is poured.",
+    "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1600&q=80",
+    "mediaType": "image",
+    "order": 0,
+    "published": true,
+    "parentId": null
+  },
+  {
+    "id": "cmtvalwiv001rjhwkfhu3ji4c",
+    "title": "2D Visualization",
+    "slug": "2d-visualization",
+    "description": "The land is measured and mapped to true scale, and the building footprint is fixed in precise two-dimensional drawings before anything else begins.",
+    "image": "/uploads/services/screenshot-2026-09-14-171017-a13853e6-00a0-43a8-b82f-83daa2a0a9fb.png",
+    "mediaType": "image",
+    "order": 0,
+    "published": true,
+    "parentId": "cmtvalwiv001qjhwksxfd8bku"
+  },
+  {
+    "id": "cmtvalwiv001sjhwkvc5sgce4",
+    "title": "3D Visualization",
+    "slug": "3d-visualization",
+    "description": "The fixed 2D plan is developed into a full three-dimensional model so the form, massing, and materials can be seen before construction starts.",
+    "image": "/uploads/services/screenshot-2026-09-14-172308-f2e235c7-ea7c-4a70-a285-5858ccf994bd.png",
+    "mediaType": "image",
+    "order": 1,
+    "published": true,
+    "parentId": "cmtvalwiv001qjhwksxfd8bku"
+  },
+  {
+    "id": "cmtvalwiy001tjhwko3tta1fe",
+    "title": "Architecture Design",
+    "slug": "architecture-design",
+    "description": "We design around your priorities, creating spaces that bring comfort, functionality, and lasting value.\r\n",
+    "image": "/uploads/services/screenshot-2026-09-14-170202-0d95f0ff-9c8a-4782-aa5f-4a7a9c52f251.png",
+    "mediaType": "image",
+    "order": 1,
+    "published": true,
+    "parentId": null
+  },
+  {
+    "id": "cmtvalwiy001ujhwk8b192ut3",
+    "title": "Cost Estimation",
+    "slug": "cost-estimation",
+    "description": "Transparent cost estimates tailored to your needs, ensuring the best value at the right rate.\r\n",
+    "image": "/uploads/real/cost-estimation.png",
+    "mediaType": "image",
+    "order": 2,
+    "published": true,
+    "parentId": null
+  },
+  {
+    "id": "cmtvalwiy001vjhwk5bn4vfbg",
+    "title": "Agreement",
+    "slug": "agreement",
+    "description": "Clear and transparent agreements that define every detail, ensuring a smooth and trusted partnership.\r\n",
+    "image": "/uploads/real/agreement-signing.png",
+    "mediaType": "image",
+    "order": 3,
+    "published": true,
+    "parentId": null
+  },
+  {
+    "id": "cmtvalwiy001wjhwke714c6c8",
+    "title": "Construction",
+    "slug": "construction",
+    "description": "With everything agreed and planned, construction begins with quality, precision, and care at every stage.\r\n",
+    "image": "/uploads/real/commercial-frame.jpg",
+    "mediaType": "image",
+    "order": 4,
+    "published": true,
+    "parentId": null
+  },
+  {
+    "id": "cmtvalwiy001xjhwke20z3gzk",
+    "title": "Quality Control & Inspection",
+    "slug": "quality-control-inspection",
+    "description": "Every stage is carefully inspected to ensure quality, precision, and lasting results.\r\n",
+    "image": "/uploads/real/qc-drilling.jpg",
+    "mediaType": "image",
+    "order": 5,
+    "published": true,
+    "parentId": null
+  },
+  {
+    "id": "cmtvalwiy001yjhwkd3lvr28u",
+    "title": "Handover",
+    "slug": "handover",
+    "description": "A final walkthrough ensures everything is ready before we hand over your completed space.\r\n",
+    "image": "/uploads/real/key-handover.png",
+    "mediaType": "image",
+    "order": 6,
+    "published": true,
+    "parentId": null
+  }
+]

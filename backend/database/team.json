@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cmu4cwtn3000029nwsgrms80u",
+    "name": "Surajh Sedhai",
+    "role": "Chairman",
+    "image": "/uploads/team/sir-1e6d41a5-0df4-4748-8fe3-98608d8223da.jpg",
+    "description": "A home is more than walls—it’s where dreams take shape and memories are made. We build every space with care, honesty, and a commitment to quality. Your vision is our responsibility.\r\n",
+    "order": 0,
+    "published": true
+  },
+  {
+    "id": "cmu2iqug80001bani1u292r2x",
+    "name": "Prateekshaa Koirala",
+    "role": "Managing Director",
+    "image": "/uploads/team/mam-87f50fb4-b6f6-4af7-9dd9-1f11cda47dd9.jpg",
+    "description": "Every project is a promise I take personally—to deliver quality, keep our word, and earn your trust. Because for me, good construction begins with good relationships.\r\n",
+    "order": 1,
+    "published": true
+  }
+]

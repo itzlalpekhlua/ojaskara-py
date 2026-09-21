@@ -1,0 +1,247 @@
+[
+  {
+    "id": "cmu3rusg60000hxwu3kbpoo4k",
+    "title": "Serene Boutique Hotel",
+    "slug": "serene-boutique-hotel",
+    "category": "Hotel",
+    "location": "Bharatpur, Chitwan",
+    "description": "Beautifully designed!",
+    "featuredImage": "/uploads/projects/unnamed-71a39900-c918-4d21-bbc6-89bf1a060859.webp",
+    "order": 0,
+    "published": true,
+    "createdAt": "2026-09-16T07:21:04.902000+00:00",
+    "updatedAt": "2026-09-16T17:14:42.925000+00:00",
+    "images": [
+      {
+        "id": "cmu3rv6mx0002hxwudsyn8tj2",
+        "url": "/uploads/projects/unnamed-1-8b7968e5-1eba-4e1f-9591-ece2d264d0c1.webp",
+        "mediaType": "image",
+        "alt": null,
+        "order": 0
+      },
+      {
+        "id": "cmu3rv6rw0004hxwu9qpponv7",
+        "url": "/uploads/projects/unnamed-2-ec3ece7c-8d44-428b-9415-f0df11743ae0.webp",
+        "mediaType": "image",
+        "alt": null,
+        "order": 1
+      },
+      {
+        "id": "cmu3rv6uy0006hxwucbesv123",
+        "url": "/uploads/projects/unnamed-3-4ef4af90-352d-44a8-971c-b64bf3266463.webp",
+        "mediaType": "image",
+        "alt": null,
+        "order": 2
+      }
+    ]
+  },
+  {
+    "id": "cmu3s0k4x0007hxwujhq5h58h",
+    "title": "Club De Novo",
+    "slug": "club-de-novo",
+    "category": "Hotel",
+    "location": "Butwal, Rupandehi",
+    "description": "A luxury-class hotel crafted with modern design, premium materials, and thoughtful attention to detail. Built to deliver lasting quality, comfort, and an exceptional guest experience.",
+    "featuredImage": "/uploads/projects/screenshot-2026-09-16-100752-a9366e23-8996-4c58-a0f5-21e99fd63679.png",
+    "order": 1,
+    "published": true,
+    "createdAt": "2026-09-16T07:25:34.065000+00:00",
+    "updatedAt": "2026-09-16T08:06:24.731000+00:00",
+    "images": [
+      {
+        "id": "cmu3s0y9a0009hxwurijvlw12",
+        "url": "/uploads/projects/screenshot-2026-09-16-100901-a842567a-d00d-4a62-8096-3e9a5e7ff761.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 0
+      },
+      {
+        "id": "cmu3s0ydk000bhxwu7m7977px",
+        "url": "/uploads/projects/screenshot-2026-09-16-100937-05867df9-ff8e-459c-9bf6-5184f5bb72a3.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "cmu3s4kth000chxwuorbwxa0g",
+    "title": "Sri Satya Sai Vidhyashram",
+    "slug": "sri-satya-sai-vidhyashram",
+    "category": "School",
+    "location": "Lekhnath, Kaski",
+    "description": "A modern school built with thoughtful design, quality materials, and a strong focus on creating a safe and inspiring learning environment. Every space is designed to support comfort, learning, and growth.\r\n",
+    "featuredImage": "/uploads/projects/screenshot-2026-09-15-165646-36d7f765-6459-472a-b87d-209847685bec.png",
+    "order": 2,
+    "published": true,
+    "createdAt": "2026-09-16T07:28:41.574000+00:00",
+    "updatedAt": "2026-09-16T07:29:05.189000+00:00",
+    "images": [
+      {
+        "id": "cmu3s4zlv000ehxwuxjpqqms4",
+        "url": "/uploads/projects/screenshot-2026-09-15-165554-d4e49320-65f6-49fa-a741-422df3896dd3.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 0
+      },
+      {
+        "id": "cmu3s4zp1000ghxwubfesx6i4",
+        "url": "/uploads/projects/screenshot-2026-09-15-165623-84ed98a6-9cf9-470f-bfa6-07878df525b9.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "cmu3s7bkp000hhxwu9nttylmh",
+    "title": "Devchuli Furniture",
+    "slug": "devchuli-furniture",
+    "category": "Business Complex",
+    "location": "Devchuli, Nawalpur",
+    "description": "A modern commercial building designed for functionality, convenience, and lasting value. Built with quality materials and thoughtful planning to create a welcoming space for businesses and customers.\r\n",
+    "featuredImage": "/uploads/projects/screenshot-2026-09-15-222202-22ef11de-9040-4a90-b2e7-913dad109401.png",
+    "order": 3,
+    "published": true,
+    "createdAt": "2026-09-16T07:30:49.562000+00:00",
+    "updatedAt": "2026-09-16T07:33:10.603000+00:00",
+    "images": [
+      {
+        "id": "cmu3s7tjg000jhxwucp3vt5ix",
+        "url": "/uploads/projects/screenshot-2026-09-15-221805-6c8ef3ac-dc57-406d-ac44-7f78c0dee7cf.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 0
+      },
+      {
+        "id": "cmu3s7tn1000lhxwulk940304",
+        "url": "/uploads/projects/screenshot-2026-09-15-221823-7e6f760a-2bc9-4f01-af66-7d4bfa4e2878.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "cmu3s9ygn000mhxwukh6q216n",
+    "title": "The Best Montessori Pre School",
+    "slug": "the-best-montessori-pre-school",
+    "category": "School",
+    "location": "Bharatpur, Chitwan",
+    "description": "A thoughtfully designed Montessori space that creates a safe, joyful, and inspiring environment for young minds to learn and grow.\r\n",
+    "featuredImage": "/uploads/projects/screenshot-2026-09-16-102507-df6278f2-189d-42b8-a997-1198189249e5.png",
+    "order": 4,
+    "published": true,
+    "createdAt": "2026-09-16T07:32:52.535000+00:00",
+    "updatedAt": "2026-09-16T07:33:39.776000+00:00",
+    "images": []
+  },
+  {
+    "id": "cmu3scs8h000nhxwu9g30cyq2",
+    "title": "Global Agro",
+    "slug": "global-agro",
+    "category": "Commercial Building",
+    "location": "Bharatpur, Chitwan",
+    "description": "A modern commercial building designed to support Global Agro’s business with functional spaces, quality construction, and a professional environment.\r\n",
+    "featuredImage": "/uploads/projects/screenshot-2026-09-15-174325-b843e1d8-47f3-4903-8eac-376f1f65212a.png",
+    "order": 5,
+    "published": true,
+    "createdAt": "2026-09-16T07:35:04.434000+00:00",
+    "updatedAt": "2026-09-16T07:35:04.434000+00:00",
+    "images": []
+  },
+  {
+    "id": "cmu3se6o0000ohxwuc8aom1u8",
+    "title": "Shishu Gyankunja",
+    "slug": "shishu-gyankunja",
+    "category": "School",
+    "location": "Butwal, Rupandehi",
+    "description": null,
+    "featuredImage": "/uploads/projects/screenshot-2026-09-15-170347-373417b1-da9c-475f-a7c5-8f5490f7bb3b.png",
+    "order": 6,
+    "published": true,
+    "createdAt": "2026-09-16T07:36:09.792000+00:00",
+    "updatedAt": "2026-09-16T07:36:27.623000+00:00",
+    "images": [
+      {
+        "id": "cmu3seiq7000qhxwujvtf6afn",
+        "url": "/uploads/projects/screenshot-2026-09-15-170507-4466934c-69cb-46fc-bb16-b19caf9e3d6b.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 0
+      }
+    ]
+  },
+  {
+    "id": "cmu9usxyw0000ohwn0mxjisdj",
+    "title": "Er. Dipendra Sir home",
+    "slug": "er-dipendra-sir-home",
+    "category": "Residential Building",
+    "location": "Baseni, Chitwan",
+    "description": "Built for comfort and luxury.",
+    "featuredImage": "/uploads/projects/3-cf403897-1525-44ce-8492-01b47f8d081d.jpg",
+    "order": 7,
+    "published": true,
+    "createdAt": "2026-09-20T13:30:14.648000+00:00",
+    "updatedAt": "2026-09-20T17:20:57.060000+00:00",
+    "images": [
+      {
+        "id": "cmu9uukeo0004ohwn2guvid6j",
+        "url": "/uploads/projects/4-b337a03b-7511-4752-aae9-c244ff20d350.jpg",
+        "mediaType": "image",
+        "alt": null,
+        "order": 1
+      },
+      {
+        "id": "cmu9uusaz0006ohwnsjyoo9p3",
+        "url": "/uploads/projects/5-11cc6c97-9f43-4ce0-a192-1ef78cf0f1c0.jpg",
+        "mediaType": "image",
+        "alt": null,
+        "order": 2
+      },
+      {
+        "id": "cmu9uuw5t0008ohwnfuk9aasv",
+        "url": "/uploads/projects/2-7f1e7b4d-d8bd-4001-bee5-1be66811a79e.jpg",
+        "mediaType": "image",
+        "alt": null,
+        "order": 3
+      },
+      {
+        "id": "cmu9uvhjo000aohwn66zf6gqv",
+        "url": "/uploads/projects/1-9290669c-ac92-48dc-9884-a59d70a1bae1.jpg",
+        "mediaType": "image",
+        "alt": null,
+        "order": 4
+      }
+    ]
+  },
+  {
+    "id": "cmu9v9wv3000bohwna130jfy6",
+    "title": "Ramu Sir's Home",
+    "slug": "ramu-sir-s-home",
+    "category": "Residential Building",
+    "location": "Baseni, Chitwan",
+    "description": "Beautifully crafted.",
+    "featuredImage": "/uploads/projects/screenshot-2026-09-20-192714-f549ef19-361e-4672-ba83-695dc0d17396.png",
+    "order": 8,
+    "published": true,
+    "createdAt": "2026-09-20T13:43:26.367000+00:00",
+    "updatedAt": "2026-09-20T17:20:36.318000+00:00",
+    "images": [
+      {
+        "id": "cmu9vaf97000dohwn4neolxr7",
+        "url": "/uploads/projects/screenshot-2026-09-20-192736-22b2b95f-1605-4ce7-89b5-547c30623be7.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 0
+      },
+      {
+        "id": "cmu9vaofk000fohwnzskrtvq9",
+        "url": "/uploads/projects/21-338a8bf1-bb6c-437c-82ad-1904e14f1a12.jpg",
+        "mediaType": "image",
+        "alt": null,
+        "order": 1
+      }
+    ]
+  }
+]

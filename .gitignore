@@ -10,11 +10,10 @@ out/
 backend/venv/
 backend/__pycache__/
 backend/**/__pycache__/
+
+# The actual session-signing secret — not "data", a credential. If this were
+# public, anyone could forge a valid admin login cookie and skip the
+# password entirely. Real content (backend/database/*.json and images/) IS
+# tracked in this repo by request; this is the one deliberate exception.
 backend/.env
-
 frontend/.env.local
-
-# Admin-uploaded media and JSON "database" — real content, not sample code.
-# Comment these two lines out if you want to version-control real site data.
-backend/database/images/
-backend/database/*.json

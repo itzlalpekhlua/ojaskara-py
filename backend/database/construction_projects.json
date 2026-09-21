@@ -1,0 +1,277 @@
+[
+  {
+    "id": "cmtvalwiq001hjhwkgv5lg3zl",
+    "title": "Sri satya sai Vidhyashram",
+    "slug": "sri-satya-sai-vidhyashram",
+    "categoryLabel": "School",
+    "location": "Lekhnath, Kaski",
+    "description": "[FILL: Project information for the school build]",
+    "featuredImage": "/uploads/construction-projects/screenshot-2026-09-15-165418-e8efbd86-bb8d-4387-8721-728cf573f335.png",
+    "order": 0,
+    "published": true,
+    "createdAt": "2026-09-10T08:56:07.395000+00:00",
+    "updatedAt": "2026-09-16T11:08:48.958000+00:00",
+    "images": [
+      {
+        "id": "cmu2kq46q000168g6w396w4tu",
+        "url": "/uploads/construction-projects/screenshot-2026-09-15-165418-ac762e8b-8557-4133-812d-dcce27954aec.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 0
+      },
+      {
+        "id": "cmu3zzl3b0001xi4r2uq2a9mu",
+        "url": "/uploads/construction-projects/screenshot-2026-09-06-000833-76f94328-83b6-47b1-a896-376070e23523.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 1
+      },
+      {
+        "id": "cmu2kq48k000368g62m799ew9",
+        "url": "/uploads/construction-projects/screenshot-2026-09-15-165554-83c65226-5436-4509-bdcc-4636d95fe322.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 2
+      },
+      {
+        "id": "cmu3zzl550003xi4r905mstvw",
+        "url": "/uploads/construction-projects/screenshot-2026-09-06-000838-03871a09-b8ed-404a-b90e-82828b5ec515.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 3
+      },
+      {
+        "id": "cmu3zzl730005xi4rw4dsb783",
+        "url": "/uploads/construction-projects/screenshot-2026-09-06-000844-115e77cf-fe8e-471d-9064-e28f2923fd08.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 4
+      },
+      {
+        "id": "cmu3zzl8u0007xi4rz3zh3wfa",
+        "url": "/uploads/construction-projects/screenshot-2026-09-06-000850-252a712c-ec2e-470a-b5cd-4c765fdbd16e.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 5
+      }
+    ]
+  },
+  {
+    "id": "cmu2mrgrg000t68g6jca83lu1",
+    "title": "Club De Novo",
+    "slug": "club-de-novo",
+    "categoryLabel": "hotel",
+    "location": "Butwal, Rupandehi",
+    "description": null,
+    "featuredImage": "/uploads/construction-projects/screenshot-2026-09-15-175427-40bdeb4b-2271-4438-becf-5dd4bb33f747.png",
+    "order": 1,
+    "published": true,
+    "createdAt": "2026-09-15T12:10:45.533000+00:00",
+    "updatedAt": "2026-09-16T17:17:03.552000+00:00",
+    "images": [
+      {
+        "id": "cmu2mrmkr000v68g69csdo02x",
+        "url": "/uploads/construction-projects/screenshot-2026-09-15-175437-d635bde3-bad6-4615-bde9-1d54733e6b8d.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 0
+      },
+      {
+        "id": "cmu2mrmmf000x68g6uu7jhc27",
+        "url": "/uploads/construction-projects/screenshot-2026-09-15-175454-e6963751-3cb8-41f5-b142-35d50449d1c3.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "cmu2l0n7c000468g60x30fiyb",
+    "title": "Shishu Gyankunja",
+    "slug": "shishu-gyankunja",
+    "categoryLabel": "School",
+    "location": "Butwal, Rupandehi",
+    "description": null,
+    "featuredImage": "/uploads/construction-projects/screenshot-2026-09-15-170507-82c080d0-ea87-4d13-aba4-c032f6c2e397.png",
+    "order": 2,
+    "published": true,
+    "createdAt": "2026-09-15T11:21:54.552000+00:00",
+    "updatedAt": "2026-09-16T17:17:03.552000+00:00",
+    "images": [
+      {
+        "id": "cmu2l0tta000668g6oscd2tw6",
+        "url": "/uploads/construction-projects/screenshot-2026-09-15-170347-c380aed3-c965-4393-ada9-fafc831f7821.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 0
+      }
+    ]
+  },
+  {
+    "id": "cmu2l7iqp000768g6ctvgvgmx",
+    "title": "Narayani Copy Udhyog",
+    "slug": "narayani-copy-udhyog",
+    "categoryLabel": "Factory",
+    "location": "Shivaghat, Chitwan",
+    "description": null,
+    "featuredImage": "/uploads/construction-projects/screenshot-2026-09-15-171138-66f7dbf0-8954-41e2-a429-a6e3e05bbf4a.png",
+    "order": 3,
+    "published": true,
+    "createdAt": "2026-09-15T11:27:15.362000+00:00",
+    "updatedAt": "2026-09-16T17:17:01.205000+00:00",
+    "images": [
+      {
+        "id": "cmu2l8j0v000968g6bes52yax",
+        "url": "/uploads/construction-projects/screenshot-2026-09-15-171110-851913b6-8fc5-4fe9-b56f-e3c926fa2f41.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 0
+      },
+      {
+        "id": "cmu2l8j2s000b68g6sic4043z",
+        "url": "/uploads/construction-projects/screenshot-2026-09-15-171123-8942da09-3473-4ff5-9605-468cea58a7a8.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "cmtvalwil001cjhwkndc7thuo",
+    "title": "Large sized residencial building",
+    "slug": "large-sized-residencial-building",
+    "categoryLabel": "Residencial building",
+    "location": "Shardanagar, Chitwan",
+    "description": "[FILL: Project information for this commercial site build]",
+    "featuredImage": "/uploads/real/commercial-frame.jpg",
+    "order": 4,
+    "published": true,
+    "createdAt": "2026-09-10T08:56:07.389000+00:00",
+    "updatedAt": "2026-09-16T17:16:57.064000+00:00",
+    "images": [
+      {
+        "id": "cmtvalwil001djhwkwtvf1ljs",
+        "url": "/uploads/real/commercial-frame.jpg",
+        "mediaType": "image",
+        "alt": null,
+        "order": 0
+      },
+      {
+        "id": "cmtvalwil001ejhwky333ashf",
+        "url": "/uploads/real/qc-drilling.jpg",
+        "mediaType": "image",
+        "alt": null,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "cmu2luwdl000c68g6i6crd8sz",
+    "title": "Beautiful designed home",
+    "slug": "beautiful-designed-home",
+    "categoryLabel": "Residencial building",
+    "location": "Patihani, Chitwan",
+    "description": null,
+    "featuredImage": "/uploads/construction-projects/screenshot-2026-09-15-172953-edbae241-2321-4b26-b83f-a38da61a8e52.png",
+    "order": 5,
+    "published": true,
+    "createdAt": "2026-09-15T11:45:26.121000+00:00",
+    "updatedAt": "2026-09-16T17:16:55.151000+00:00",
+    "images": [
+      {
+        "id": "cmu2lv5u0000e68g6dkpnj4nv",
+        "url": "/uploads/construction-projects/screenshot-2026-09-15-173008-b8b208f3-f088-4fc6-876f-10cf00bcd4ad.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 0
+      }
+    ]
+  },
+  {
+    "id": "cmu2madt6000j68g6atotmw41",
+    "title": "Devchuli Furniture",
+    "slug": "devchuli-furniture",
+    "categoryLabel": "Commercial building",
+    "location": "Devchuli, Nawalpur",
+    "description": null,
+    "featuredImage": "/uploads/construction-projects/screenshot-2026-09-15-174158-39a642d5-eb55-4353-8cc7-193201ef2938.png",
+    "order": 6,
+    "published": true,
+    "createdAt": "2026-09-15T11:57:28.555000+00:00",
+    "updatedAt": "2026-09-16T17:16:53.436000+00:00",
+    "images": [
+      {
+        "id": "cmu2makf7000l68g6j3wgjxwq",
+        "url": "/uploads/construction-projects/screenshot-2026-09-15-174153-1b61aaef-df6e-4e3f-b373-21374600327f.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 0
+      }
+    ]
+  },
+  {
+    "id": "cmu2m1ckk000f68g6vhhokuns",
+    "title": "Er. Dipendra Shrestha Home",
+    "slug": "er-dipendra-shrestha-home",
+    "categoryLabel": "Residencial building",
+    "location": "Baseni, Chitwan",
+    "description": null,
+    "featuredImage": "/uploads/construction-projects/screenshot-2026-09-15-173439-87ae1f9c-3dd2-4dcc-9532-19fd47b5af05.png",
+    "order": 7,
+    "published": true,
+    "createdAt": "2026-09-15T11:50:27.044000+00:00",
+    "updatedAt": "2026-09-16T17:16:51.700000+00:00",
+    "images": [
+      {
+        "id": "cmu2m1iq1000h68g6q0nvk8gd",
+        "url": "/uploads/construction-projects/screenshot-2026-09-15-173445-e2bdcfe3-591b-4819-987a-b68273b4713b.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 0
+      }
+    ]
+  },
+  {
+    "id": "cmu2m5jy3000i68g6kvmpozub",
+    "title": "Roshan Furniture",
+    "slug": "roshan-furniture",
+    "categoryLabel": "Wearhouse",
+    "location": "Lankhu, Chitwan",
+    "description": null,
+    "featuredImage": "/uploads/construction-projects/screenshot-2026-09-15-173824-deff1d03-f267-44e6-98f8-3a66c9c349ac.png",
+    "order": 8,
+    "published": true,
+    "createdAt": "2026-09-15T11:53:43.228000+00:00",
+    "updatedAt": "2026-09-16T17:16:49.879000+00:00",
+    "images": []
+  },
+  {
+    "id": "cmu2mcuk4000m68g6h1ddxae4",
+    "title": "Global Agro",
+    "slug": "global-agro",
+    "categoryLabel": "Corporate office building",
+    "location": "Newroad, Chitwan",
+    "description": null,
+    "featuredImage": "/uploads/construction-projects/screenshot-2026-09-15-174445-9098a167-fdaa-4ed0-9b82-b85d1a4fd9bd.png",
+    "order": 9,
+    "published": true,
+    "createdAt": "2026-09-15T11:59:23.572000+00:00",
+    "updatedAt": "2026-09-16T17:16:48.169000+00:00",
+    "images": [
+      {
+        "id": "cmu2mlm36000o68g6e1zlzrsm",
+        "url": "/uploads/construction-projects/screenshot-2026-09-15-174325-0f0c6954-33dc-45fa-a4d1-7c01787db494.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 0
+      },
+      {
+        "id": "cmu2mlm72000s68g6bfjoj25e",
+        "url": "/uploads/construction-projects/screenshot-2026-09-15-174453-69cf44a8-ea2b-4d60-931f-e0e4140b8aae.png",
+        "mediaType": "image",
+        "alt": null,
+        "order": 2
+      }
+    ]
+  }
+]

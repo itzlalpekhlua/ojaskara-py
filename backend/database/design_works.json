@@ -1,0 +1,277 @@
+[
+  {
+    "id": "cmtvalwij0012jhwke1fbkl7b",
+    "title": "Bathroom",
+    "slug": "bathroom",
+    "kind": "interior",
+    "scope": "residential",
+    "roomType": "Bathroom",
+    "description": "A modern bathroom that combines comfort, functionality, and refined simplicity.",
+    "featuredImage": "/uploads/design-portfolio/screenshot-2026-09-16-141511-3554aaa1-870d-4e7d-b80e-f917ba22f70c.png",
+    "order": 0,
+    "published": true,
+    "createdAt": "2026-09-10T08:56:07.387000+00:00",
+    "updatedAt": "2026-09-16T08:52:02.044000+00:00",
+    "images": [
+      {
+        "id": "cmu3ui0un000hj43qwhgqdcds",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-141948-83f02eb0-8f2d-4ff7-a4cc-b28542e548d5.png",
+        "alt": null,
+        "order": 0
+      }
+    ]
+  },
+  {
+    "id": "cmtvalwij0016jhwkwisw0gfn",
+    "title": "Office",
+    "slug": "office",
+    "kind": "interior",
+    "scope": "commercial",
+    "roomType": null,
+    "description": "A thoughtfully designed office interior that blends modern aesthetics with everyday functionality.\r\nCreated to inspire productivity, comfort, and a professional working environment.\r\n",
+    "featuredImage": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1600&q=80",
+    "order": 0,
+    "published": true,
+    "createdAt": "2026-09-10T08:56:07.387000+00:00",
+    "updatedAt": "2026-09-16T08:58:44.652000+00:00",
+    "images": [
+      {
+        "id": "cmu3v0qdz000lj43q69rdle7l",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-135529-2b82d0d9-5ec7-438e-824c-9f735e220736.png",
+        "alt": null,
+        "order": 0
+      }
+    ]
+  },
+  {
+    "id": "cmtvalwij001ajhwk24sjpgv1",
+    "title": "Luxurious official building",
+    "slug": "luxurious-official-building",
+    "kind": "exterior",
+    "scope": "commercial",
+    "roomType": "Building",
+    "description": "Designed for future.",
+    "featuredImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1600&q=80",
+    "order": 0,
+    "published": true,
+    "createdAt": "2026-09-10T08:56:07.387000+00:00",
+    "updatedAt": "2026-09-16T08:24:19.039000+00:00",
+    "images": []
+  },
+  {
+    "id": "cmu3vsnbq000uj43q2icp7ejp",
+    "title": "Modern Designs",
+    "slug": "modern-designs",
+    "kind": "exterior",
+    "scope": "residential",
+    "roomType": "Building",
+    "description": "Contemporary homes designed with clean lines, open spaces, and a focus on comfort and functionality.",
+    "featuredImage": "/uploads/design-portfolio/screenshot-2026-09-16-140055-9dd5c9c3-84e5-4c8d-ba6d-a64473df2a4f-69987061-0d0c-4865-910b-9f6db202393d.png",
+    "order": 0,
+    "published": true,
+    "createdAt": "2026-09-16T09:11:23.414000+00:00",
+    "updatedAt": "2026-09-20T13:46:06.399000+00:00",
+    "images": [
+      {
+        "id": "cmu3vt8zj000wj43qrmtvhmuo",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-140512-330f56a5-fb17-4959-86e7-fe47cc16856f.png",
+        "alt": null,
+        "order": 0
+      },
+      {
+        "id": "cmu3w2hvf0017j43qms7kudb7",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-140137-5598d216-f7e1-4e9f-8378-84a1f4a7663e.png",
+        "alt": null,
+        "order": 1
+      },
+      {
+        "id": "cmu3w63xc001cj43qf90natbr",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-140232-3081a2e5-e1b5-43b5-a020-6dfd1bad1b47.png",
+        "alt": null,
+        "order": 2
+      },
+      {
+        "id": "cmu9vd96l000hohwnkary72ax",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-140341-c2059e33-6bf7-4e2c-a5f5-5ed95c0e3d1c.png",
+        "alt": null,
+        "order": 3
+      }
+    ]
+  },
+  {
+    "id": "cmtvalwij0013jhwkuhn0esh5",
+    "title": "Kitchen",
+    "slug": "kitchen",
+    "kind": "interior",
+    "scope": "residential",
+    "roomType": "Kitchen",
+    "description": "Functional and elegant kitchen designs for effortless cooking and everyday living.",
+    "featuredImage": "/uploads/design-portfolio/screenshot-2026-09-16-141449-c8db707b-b0aa-4085-ba3f-da41ed38cea2.png",
+    "order": 1,
+    "published": true,
+    "createdAt": "2026-09-10T08:56:07.387000+00:00",
+    "updatedAt": "2026-09-16T08:51:32.291000+00:00",
+    "images": [
+      {
+        "id": "cmu3v2eka000nj43q05uhqdhc",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-142725-df0dbf0c-ead5-4e5b-bcb0-343d5dad288c.png",
+        "alt": null,
+        "order": 0
+      },
+      {
+        "id": "cmu3v2es1000pj43qozm07l8c",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-142739-8f0414d5-20c2-443e-b434-046f988ddf91.png",
+        "alt": null,
+        "order": 1
+      },
+      {
+        "id": "cmu3v2f1h000rj43qb80biz9z",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-142748-61845fdf-b342-422f-80fc-743c1b2fe91e.png",
+        "alt": null,
+        "order": 2
+      },
+      {
+        "id": "cmu3v2f87000tj43qmqmv0zxj",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-142808-561568aa-5663-4c45-aeee-7e028f502cd2.png",
+        "alt": null,
+        "order": 3
+      }
+    ]
+  },
+  {
+    "id": "cmu3vvdh0000zj43qszzkar21",
+    "title": "Classical Designs",
+    "slug": "classical-designs",
+    "kind": "exterior",
+    "scope": "residential",
+    "roomType": "Building",
+    "description": "Elegant homes inspired by timeless architectural details, balanced proportions, and traditional design elements.",
+    "featuredImage": "/uploads/design-portfolio/screenshot-2026-09-16-140300-6fd29837-a3af-4410-9224-271dba4f60b3.png",
+    "order": 1,
+    "published": true,
+    "createdAt": "2026-09-16T09:13:30.613000+00:00",
+    "updatedAt": "2026-09-20T13:48:00.769000+00:00",
+    "images": [
+      {
+        "id": "cmu3vwkej0011j43qxwlh5pkr",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-140331-504f2f2d-7dc0-489d-a427-c0c992c83e47.png",
+        "alt": null,
+        "order": 0
+      },
+      {
+        "id": "cmu3w8dll001ej43q2wk34nq6",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-140452-d5f1609c-5865-4994-b815-574c1eb26fcb.png",
+        "alt": null,
+        "order": 2
+      },
+      {
+        "id": "cmu9vfpg8000lohwn8zzb4sid",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-140324-211d198a-c3e5-4d5f-929b-53ec430e4717.png",
+        "alt": null,
+        "order": 3
+      }
+    ]
+  },
+  {
+    "id": "cmtvalwij0015jhwkypdruo70",
+    "title": "Bedroom",
+    "slug": "bedroom",
+    "kind": "interior",
+    "scope": "residential",
+    "roomType": "Bedroom",
+    "description": "Calm and comfortable bedroom desings for restful nights and peaceful mornings.",
+    "featuredImage": "/uploads/design-portfolio/screenshot-2026-09-16-142105-e9cce21e-1229-41dc-84ae-6f72e5e11e48.png",
+    "order": 2,
+    "published": true,
+    "createdAt": "2026-09-10T08:56:07.387000+00:00",
+    "updatedAt": "2026-09-16T08:52:34.576000+00:00",
+    "images": [
+      {
+        "id": "cmu3ukvfb000jj43q5b4ayh9f",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-142143-6c75c75f-5824-486f-b23c-39c2d828915a.png",
+        "alt": null,
+        "order": 0
+      }
+    ]
+  },
+  {
+    "id": "cmu3w4g890018j43ql9beqe72",
+    "title": "Simple Designs",
+    "slug": "simple-designs",
+    "kind": "exterior",
+    "scope": "residential",
+    "roomType": "Building",
+    "description": "Practical and comfortable homes with clean designs, efficient spaces, and a focus on everyday living.",
+    "featuredImage": "/uploads/design-portfolio/screenshot-2026-09-16-140153-582c38ce-cf59-465d-a588-687bc8059f2b.png",
+    "order": 2,
+    "published": true,
+    "createdAt": "2026-09-16T09:20:34.089000+00:00",
+    "updatedAt": "2026-09-20T13:47:24.985000+00:00",
+    "images": [
+      {
+        "id": "cmu3w4raw001aj43q11timbkj",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-140317-ae5cfbca-f8f9-44ea-a8e1-e15d89ff27f9.png",
+        "alt": null,
+        "order": 0
+      },
+      {
+        "id": "cmu9veyqa000johwnegwqz5aw",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-20-192714-8e8afedc-583e-454a-b0a5-f57d6dcf0721.png",
+        "alt": null,
+        "order": 1
+      }
+    ]
+  },
+  {
+    "id": "cmtvalwij0014jhwkdb4lxaeq",
+    "title": "Living Room",
+    "slug": "living-room",
+    "kind": "interior",
+    "scope": "residential",
+    "roomType": "Living Room",
+    "description": "Welcoming living spaces designed for comfort, connection, and everyday moments.",
+    "featuredImage": "/uploads/design-portfolio/screenshot-2026-09-16-140416-f4f37597-ae2a-45c2-b656-38e9ae2612ca.png",
+    "order": 3,
+    "published": true,
+    "createdAt": "2026-09-10T08:56:07.387000+00:00",
+    "updatedAt": "2026-09-16T08:53:07.688000+00:00",
+    "images": [
+      {
+        "id": "cmu3u18630001j43q4nq5rggy",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-140350-f76684d6-a90c-43c4-898c-c872913b382c.png",
+        "alt": null,
+        "order": 0
+      },
+      {
+        "id": "cmu3u18du0003j43qvwfmmujw",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-140400-791a0355-765c-4410-84ae-054ab42c347f.png",
+        "alt": null,
+        "order": 1
+      },
+      {
+        "id": "cmu3u18la0005j43q0x2z9kz6",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-140407-7dbf1da4-febd-4597-b0d1-7b09769a4afe.png",
+        "alt": null,
+        "order": 2
+      },
+      {
+        "id": "cmu3u18su0007j43qmodltpe7",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-140411-6fe37b39-ac7a-4abe-8a91-dc47edf7a9f5.png",
+        "alt": null,
+        "order": 3
+      },
+      {
+        "id": "cmu3u199h000bj43qy522vuom",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-140433-08333c2b-9c66-4dc5-961b-06034a712fa8.png",
+        "alt": null,
+        "order": 5
+      },
+      {
+        "id": "cmu3u19g8000dj43qevosc8ib",
+        "url": "/uploads/design-portfolio/screenshot-2026-09-16-140439-62e06a19-e574-4a6c-8bd1-42fe66b9fcab.png",
+        "alt": null,
+        "order": 6
+      }
+    ]
+  }
+]

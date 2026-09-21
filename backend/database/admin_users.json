@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cmtvawp490000ypysckuwh2hd",
+    "email": "owner@ojaskaraabuilders.test",
+    "passwordHash": "$2b$10$xBeDktYqNfv3roTm4VBP8edCrc7QIzdKteRA3sCG53INAXn5IqxG2",
+    "role": "owner",
+    "createdAt": "2026-09-10T09:04:31.017000+00:00"
+  },
+  {
+    "id": "cmu0km8w200002hj7xtthwirt",
+    "email": "sharmaprashantb321@gmail.com",
+    "passwordHash": "$2b$10$i7RZOLSFM5JM/PjtYUqzYuMSzM1FBz0YbIoho9BB4ccbjhpvWZyJa",
+    "role": "owner",
+    "createdAt": "2026-09-14T01:35:10.466000+00:00"
+  },
+  {
+    "id": "cmu14vr4a0000sre7oorml4cq",
+    "email": "you@example.com",
+    "passwordHash": "$2b$10$oq1uoRQxY1jdaK/.2HiZ6eDwWzvN8NOEDTXpHAA3RFKmSPlE1tKnO",
+    "role": "owner",
+    "createdAt": "2026-09-14T11:02:26.314000+00:00"
+  },
+  {
+    "id": "cmu14xiyg0000ngbqk73ecusz",
+    "email": "admin@ojaskaraa.com",
+    "passwordHash": "$2b$10$2wIx7z44GtpDCvozN.1W3erQqEvMejv.uK1L3MtJtprS/vBDK/zti",
+    "role": "owner",
+    "createdAt": "2026-09-14T11:03:49.049000+00:00"
+  },
+  {
+    "id": "0db46a040a22425caf5786b95c6d2117",
+    "email": "admin@gmail.com",
+    "passwordHash": "$2b$10$bpJu7Psz/9JO5L5so4KSlu6bv1.bv6bYbGfYP0b7hp/s4uldZOSNa",
+    "role": "owner",
+    "createdAt": "2026-09-21T11:30:52.269174+00:00"
+  },
+  {
+    "id": "cf25d3a2e3ab4795af47ee63b7f5afb5",
+    "email": "aadmin@gmail.com",
+    "passwordHash": "$2b$10$gI2gH/QowU0Btwx5P23zU.IYVlrmSfwqMPOoZwnNEH0tJLQmqJLJ.",
+    "role": "owner",
+    "createdAt": "2026-09-21T11:31:25.612591+00:00"
+  }
+]
