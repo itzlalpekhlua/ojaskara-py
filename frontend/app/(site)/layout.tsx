@@ -7,6 +7,7 @@ import { LoadingScreen } from "@/components/LoadingScreen";
 import { FloatingWhatsApp } from "@/components/FloatingWhatsApp";
 import { DriftingDiamonds } from "@/components/DriftingDiamonds";
 import { apiGet } from "@/lib/api";
+import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site";
 import type { SiteSettings } from "@/lib/types";
 
 const sans = Inter({
@@ -22,10 +23,25 @@ const brand = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Ojaskaraa Builders",
-  description:
-    "Ojaskaraa Builders — premium residential and commercial construction, architecture, and design in Bharatpur & Kathmandu, Nepal.",
+  metadataBase: new URL(SITE_URL),
+  title: { default: SITE_NAME, template: `%s — ${SITE_NAME}` },
+  description: SITE_DESCRIPTION,
   icons: { icon: "/logo-mark.png" },
+  alternates: { canonical: "/" },
+  openGraph: {
+    type: "website",
+    url: SITE_URL,
+    siteName: SITE_NAME,
+    title: SITE_NAME,
+    description: SITE_DESCRIPTION,
+    images: [{ url: "/logo-mark.png", alt: SITE_NAME }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: SITE_NAME,
+    description: SITE_DESCRIPTION,
+    images: ["/logo-mark.png"],
+  },
 };
 
 export default async function RootLayout({ children }: { children: React.ReactNode }) {
